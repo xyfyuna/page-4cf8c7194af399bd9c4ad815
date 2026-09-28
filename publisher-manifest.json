@@ -1,0 +1,123 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "37a1e7749c35f245abbe2f71",
+  "owner": "xyfyuna",
+  "repo": "page-4cf8c7194af399bd9c4ad815",
+  "title": "365VPN",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "4cf8c7194af399bd9c4ad815",
+      "a": "365VPN",
+      "b": "",
+      "entity": "365VPN",
+      "brand": "365VPN",
+      "separator": "",
+      "path": "index.html",
+      "hash": "1ca9841a9f74e274cbab3083d32f9b899a17a347b946ed50ff344c1c12c39eb4",
+      "content": {
+        "keyword1": "365VPN",
+        "keyword2": "",
+        "primary_entity": "365VPN",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "365VPN 提供稳定VPN网络加速服务，解锁国际流媒体并优化游戏体验。安全高速线路，立即下载官网客户端享受加速。",
+          "AI_DESCRIPTION": "365VPN 提供稳定VPN网络加速服务，解锁国际流媒体并优化游戏体验。安全高速线路，立即下载官网客户端享受加速。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "\n\n\n\n\n\n\n\n<style>\nbody{font-family:system-ui,-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica Neue,Arial,sans-serif;margin:0;background:#f8f9fa;color:#222;line-height:1.7}\nheader{background:#fff;box-shadow:0 2px 8px rgba(0,0,0,.08);position:sticky;top:0;z-index:10}\nnav{max-width:1280px;margin:0 auto;padding:1rem 1.5rem;display:flex;justify-content:space-between;align-items:center}\n.logo{font-size:2rem;font-weight:700;color:#6b5b95}\nnav a{color:#6b5b95;text-decoration:none;margin-left:2rem;font-weight:500}\n.hero{background:linear-gradient(135deg,#6b5b95,#9b4dff);color:#fff;padding:4.5rem 0;text-align:center}\n.hero h1{font-size:3.2rem;margin:0 0 .75rem}\nbutton{background:#fff;color:#6b5b95;border:none;padding:14px 36px;border-radius:50px;font-size:1.15rem;font-weight:600;cursor:pointer;margin-top:1rem;box-shadow:0 4px 12px rgba(0,0,0,.1)}\nsection{max-width:1280px;margin:0 auto;padding:3rem 1.5rem}\nh2{color:#6b5b95;margin-bottom:.75rem;font-size:1.85rem}\n.card{background:#fff;border-radius:12px;padding:2rem;box-shadow:0 4px 15px rgba(107,91,149,.08);margin-bottom:1.8rem}\n.card h3{color:#6b5b95;margin-bottom:1rem}\n.config-steps{display:grid;grid-template-columns:repeat(auto-fit,minmax(280px,1fr));gap:1.5rem}\n.step-card{background:#fff;border:2px solid #f1f1f1;border-radius:10px;padding:1.8rem;text-align:center}\n.step-card h3{color:#6b5b95}\n.faq details{background:#fff;border-radius:10px;margin-bottom:1rem;overflow:hidden}\n.faq summary{padding:1.25rem 1.75rem;font-weight:600;cursor:pointer;color:#6b5b95}\n.faq summary::-webkit-details-marker{display:none}\nfooter{background:#222;color:#ccc;padding:2.5rem 0;text-align:center;font-size:.95rem}\n@media(max-width:768px){.hero h1{font-size:2.4rem}.config-steps{grid-template-columns:1fr}}\n</style>\n\n\n<header>\n<nav>\n<div class=\"logo\">365VPN</div>\n<nav>\n<a href=\"#intro\">品牌简介</a>\n<a href=\"#scenarios\">使用场景</a>\n<a href=\"#config\">配置流程</a>\n<a href=\"#plans\">套餐计划</a>\n<a href=\"#faq\">常见问题</a>\n</nav>\n</nav>\n</header>\n<main>\n<section class=\"hero\">\n<h1>365VPN</h1>\n<p>稳定高速VPN加速器，解锁流媒体与游戏优化</p>\n\n</section>\n<section id=\"intro\">\n<h2>品牌简介</h2>\n<p>365VPN 是一款专注于全球网络加速的VPN服务品牌，致力于为用户提供安全、快速、稳定的线路体验。无论您是个人用户还是企业团队，都能在365VPN找到专属的加速方案。</p>\n</section>\n<section id=\"scenarios\">\n<h2>使用场景</h2>\n<div class=\"card\">\n<h3>国际流媒体解锁</h3>\n<p>畅享Netflix、YouTube、Disney+、HBO等全球平台内容，无缓冲、无地域限制，轻松突破地区限制。</p>\n</div>\n<div class=\"card\">\n<h3>游戏加速优化</h3>\n<p>支持IPLC专线线路，降低延迟，提升在线竞技体验，适合各类网络游戏玩家。</p>\n</div>\n<div class=\"card\">\n<h3>日常办公与多设备</h3>\n<p>支持多台设备同时在线，保护隐私，提升远程办公与团队协作效率。</p>\n</div>\n</section>\n<section id=\"config\">\n<h2>配置流程</h2>\n<p>仅需4步即可完成设置，让您轻松享受加速体验：</p>\n<div class=\"config-steps\">\n<div class=\"step-card\">\n<h3>步骤1</h3>\n<p>访问官网下载客户端</p>\n</div>\n<div class=\"step-card\">\n<h3>步骤2</h3>\n<p>安装并使用邮箱注册账号</p>\n</div>\n<div class=\"step-card\">\n<h3>步骤3</h3>\n<p>在节点池中选择目标地区</p>\n</div>\n<div class=\"step-card\">\n<h3>步骤4</h3>\n<p>一键连接立即加速</p>\n</div>\n</div>\n</section>\n<section id=\"plans\">\n<h2>套餐计划</h2>\n{{PLANS_HTML}}\n</section>\n<section id=\"faq\">\n<h2>常见问题</h2>\n<div class=\"faq\">\n<details>\n<summary>365VPN是什么？</summary>\n365VPN 是一款专业的VPN网络加速器，提供多种流量套餐和设备支持，致力于为用户带来安全稳定的网络体验。</details>\n<details>\n<summary>如何购买套餐？</summary>\n您可以在线选择套餐类型，支付后立即激活使用。支持多种支付方式，快速到账。</details>\n<details>\n<summary>支持哪些设备？</summary>\n365VPN 支持Windows、Mac、Android、iOS、路由器等多种设备同时在线。</details>\n<details>\n<summary>节点覆盖哪些地区？</summary>\n覆盖全球多个国家和地区，提供多种加速线路选择。</details>\n<details>\n<summary>如何升级或降级套餐？</summary>\n登录账号后，可随时在个人中心进行套餐调整。</details>\n</div>\n</section>\n<section>\n<h2>合作客户</h2>\n{{CLIENTS_HTML}}\n</section>\n</main>\n<footer>\n<p>© 2024 365VPN 所有权利保留</p>\n</footer>\n\n",
+          "hash": "2dcc6d5896dde23e4d523d290a1606138a9a7507e02720ef88c3e27f37d2cb2a",
+          "seo": {
+            "title": "365VPN 官网 | VPN加速器 机场订阅 客户端下载",
+            "keywords": "365VPN,VPN加速器,机场订阅,客户端下载,网络加速,VPN梯子",
+            "description": "365VPN 提供稳定VPN网络加速服务，解锁国际流媒体并优化游戏体验。安全高速线路，立即下载官网客户端享受加速。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "lnxswrv.cn",
+    "host": "c.lnxswrv.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804"
+  },
+  "friendlinks": [
+    {
+      "host": "lnxswrv.cn",
+      "url": "https://lnxswrv.cn/",
+      "label": "奶瓶(Nerwo)",
+      "apex": "lnxswrv.cn",
+      "kind": null,
+      "identity": "hhhgjpduk/page-c30cf6a7b285380cc55a45fd"
+    },
+    {
+      "host": "00ah6.cn",
+      "url": "https://00ah6.cn/",
+      "label": "SSHUB",
+      "apex": "00ah6.cn",
+      "kind": null,
+      "identity": "erjwrgjj/page-6141714b7a0f264666643c94"
+    },
+    {
+      "host": "01kmph.cn",
+      "url": "https://01kmph.cn/",
+      "label": "WeGo",
+      "apex": "01kmph.cn",
+      "kind": null,
+      "identity": "wbwftxwku/page-680ee6fa2562d6d22ba5a121"
+    }
+  ],
+  "file_hashes": {
+    "index.html": "c9afe41801647bbb1d5231bc8972eae24777cf96faae09925d0f6668712dc74d",
+    "sitemap.xml": "e7b0e60674ea753f545ffbc5d403696e50caf5ff8a9802498ede8a00841693ef",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "239c0840f05f1fa162d4148581d6d4ab1c542b9add8d420db6680af748ede189",
+    "robots.txt": "0989f40c6a748bb37d17a52c6cf68e279427bd85fd5fc137eec3177a9699df02",
+    "c4c9144a57e9dd60007fe0b7df7ee926.txt": "5f92369b2ec8bcaee31904e8a974f8cbabe12eff3eb1d8acb820cb4f3278146f"
+  },
+  "revision": "1f8b0cba85bcfac1e322098bb6f35c649543d24404c2cd2ce1b5635a2a373eb1"
+}
